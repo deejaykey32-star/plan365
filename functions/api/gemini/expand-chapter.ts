@@ -114,3 +114,4 @@ Wygeneruj WYŁĄCZNIE poprawny obiekt JSON:
     });
   }
 };
+

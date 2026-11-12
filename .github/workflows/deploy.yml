@@ -34,3 +34,4 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: fea4bee8b82afd63ef6c121846093977
           command: pages deploy dist --project-name=plan365
+
