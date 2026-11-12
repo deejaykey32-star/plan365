@@ -1,0 +1,8 @@
+{
+  "name": "Biblia 365 - Plan Czytania, Komentarz & Lektor AI",
+  "description": "Plan czytania Pisma Świętego dzień po dniu, księga po księdze i rozdział po rozdziale z automatycznym śledzeniem postępów na wszystkich urządzeniach, komentarzem hebrajskim, aramejskim, greckim i łacińskim, geopolityką, florą i fauną oraz lektorem AI TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
